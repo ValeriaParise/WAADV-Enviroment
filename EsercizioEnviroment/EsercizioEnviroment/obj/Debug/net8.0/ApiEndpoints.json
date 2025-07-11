@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EsercizioEnviroment.Controllers.GreetingController",
+    "Method": "GetGreeting",
+    "RelativePath": "api/Greeting",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
